@@ -4,5 +4,5 @@ Este repositório contém soluções para desafios de programação que faço pa
 
 This repository contains solutions to programming challenges that I undertake to **enhance my knowledge** and **showcase my skills**. Here, you will find solved problems from platforms like HackerRank, LeetCode, and others, organized by theme and difficulty.
 
-## 🛠️ Tecnologias utilizadas/Technologies used
+## 🛠️ Tecnologias utilizadas/Technologies used (Until now)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
