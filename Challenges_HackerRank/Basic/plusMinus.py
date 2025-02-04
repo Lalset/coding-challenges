@@ -22,12 +22,14 @@ def plusMinus(arr):
 
 if __name__ == '__main__':
     # HackerRank mode
-    #n = int(input().strip())
-    #arr = list(map(int, input().rstrip().split()))
+    n = int(input().strip())
+    arr = list(map(int, input().rstrip().split()))
     
-    # Manual mode (for local testing)
+    # Local mode (for local testing)
+    """
     n = int(input("Enter the size of the array: ").strip())
     print(f"Enter the {n} elements of the array (separated by space):")
     arr = list(map(int, input().rstrip().split()))
     
     plusMinus(arr)
+    """

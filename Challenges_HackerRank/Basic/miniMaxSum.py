@@ -1,3 +1,5 @@
+import sys
+
 def miniMaxSum(arr):
     arr.sort()
     
@@ -9,14 +11,16 @@ def miniMaxSum(arr):
 
 if __name__ == '__main__':
     # Local Mode: manual input
-    input = input("Digite 5 números separados por espaço: ")
-    arr = list(map(int, input.split()))
+    
+    # input = input("Digite 5 números separados por espaço: ")
+    # arr = list(map(int, input.split()))
         
-    if len(arr) != 5:
-        print("Por favor, insira 5 números.")
-    else:
-        miniMaxSum(arr)
-
+    # if len(arr) != 5:
+    #     print("Por favor, insira 5 números.")
+    # else:
+    #     miniMaxSum(arr)
+    
+    
     #HackerRank Mode: automatic input
-    #arr = list(map(int, sys.stdin.readline().rstrip().split()))
-    #miniMaxSum(arr)
+    arr = list(map(int, sys.stdin.readline().rstrip().split()))
+    miniMaxSum(arr)
