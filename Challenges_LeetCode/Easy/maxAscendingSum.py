@@ -15,7 +15,7 @@ class Solution:
         return max(max_sum, sum)
     
 #Local Mode:
-if __name__ == "__main__":
-    nums = list(map(int, input("Enter numbers separated by space: ").split()))
-    sol = Solution()
-    print("Result: ", sol.maxAscendingSum(nums))    
+# if __name__ == "__main__":
+#     nums = list(map(int, input("Enter numbers separated by space: ").split()))
+#     sol = Solution()
+#     print("Result: ", sol.maxAscendingSum(nums))    
