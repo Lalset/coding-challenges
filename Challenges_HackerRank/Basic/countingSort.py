@@ -25,8 +25,8 @@ if __name__ == '__main__':
     
 # Local Mode:
 
-n = int(input("Enter how many numbers: ").strip())
-arr = list(map(int, input("Enter numbers separated by space: ").split()))
+# n = int(input("Enter how many numbers: ").strip())
+# arr = list(map(int, input("Enter numbers separated by space: ").split()))
 
-result = countingSort(arr)
-print(" ".join(map(str, result)))
+# result = countingSort(arr)
+# print(" ".join(map(str, result)))
