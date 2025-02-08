@@ -19,6 +19,7 @@ This repository contains solutions to programming challenges that I undertake to
 - [Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_HackerRank/Basic/matchingStrings.py)
 - [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_HackerRank/Basic/diagonalDifference.py)
 - [Counting Sort 1](https://www.hackerrank.com/challenges/one-month-preparation-kit-countingsort1/problem) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_HackerRank/Basic/countingSort.py)
+- [Pangrams](https://www.hackerrank.com/challenges/pangrams/problem) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_HackerRank/Basic/pangrams.py)
 ### LeetCode
 #### 🟢Easy
 - [Two Sum](https://leetcode.com/problems/two-sum/description/) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_LeetCode/Easy/twoSum.py)
@@ -27,3 +28,4 @@ This repository contains solutions to programming challenges that I undertake to
 - [Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/description/) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_LeetCode/Easy/areAlmostEqual.py)
 - [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_LeetCode/Easy/romanToInt.py)
 - [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_LeetCode/Easy/longestCommonPrefix.py)
+- [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_LeetCode/Easy/isValidParentheses.py)
