@@ -35,3 +35,4 @@ This repository contains solutions to programming challenges that I undertake to
 - [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_LeetCode/Easy/mergeTwoSortedLists.py)
 - [Clear Digits](https://github.com/Lalset/coding-challenges/blob/main/Challenges_HackerRank/Basic/birthday.py) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_LeetCode/Easy/clearDigits.py)
 - [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_LeetCode/Easy/removeDuplicates.py)
+- [Remove Element](https://leetcode.com/problems/remove-element/description/) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_LeetCode/Easy/removeElement.py)
