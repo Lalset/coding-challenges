@@ -22,6 +22,7 @@ This repository contains solutions to programming challenges that I undertake to
 - [Pangrams](https://www.hackerrank.com/challenges/pangrams/problem) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_HackerRank/Basic/pangrams.py)
 - [Permuting Two Arrays](https://www.hackerrank.com/challenges/two-arrays/problem) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_HackerRank/Basic/twoArrays.py)
 - [Subarray Division 1](https://www.hackerrank.com/challenges/one-month-preparation-kit-the-birthday-bar/problem) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_HackerRank/Basic/birthday.py)
+- [XOR Strings 2](https://www.hackerrank.com/challenges/one-month-preparation-kit-strings-xor/problem) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_HackerRank/Basic/stringsXor.py)
 
 ### LeetCode
 #### 🟢Easy
