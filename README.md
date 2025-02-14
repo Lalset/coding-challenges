@@ -39,3 +39,4 @@ This repository contains solutions to programming challenges that I undertake to
 - [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_LeetCode/Easy/removeDuplicates.py)
 - [Remove Element](https://leetcode.com/problems/remove-element/description/) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_LeetCode/Easy/removeElement.py)
 - [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_LeetCode/Easy/firstOcurrence.py)
+- [Search Insert Position](https://leetcode.com/problems/search-insert-position/) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_LeetCode/Easy/searchInsert.py)
