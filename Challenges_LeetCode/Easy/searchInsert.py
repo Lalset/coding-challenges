@@ -1,3 +1,5 @@
+# LeetCode Mode
+
 from typing import List
 
 class Solution:
@@ -13,11 +15,13 @@ class Solution:
                 right = mid - 1
         
         return left
+
+# Local Mode:  
     
-nums = list(map(int, input("Enter a list of numbers separated by space: ").split()))
-target = int(input("Enter the target number: "))
+# nums = list(map(int, input("Enter a list of numbers separated by space: ").split()))
+# target = int(input("Enter the target number: "))
 
-sol = Solution()
-res = sol.searchInsert(nums, target)
+# sol = Solution()
+# res = sol.searchInsert(nums, target)
 
-print(f"Index of target: {res}")
+# print(f"Index of target: {res}")
