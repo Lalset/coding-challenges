@@ -32,10 +32,10 @@ if __name__ == '__main__':
     
 # Local Mode:
 
-if __name__ == '__main__':
-    n = int(input("Enter the number of socks: ").strip())  
-    sockColors = list(map(int, input("Enter the colors of the socks separated by space: ").split()))  
+# if __name__ == '__main__':
+#     n = int(input("Enter the number of socks: ").strip())  
+#     sockColors = list(map(int, input("Enter the colors of the socks separated by space: ").split()))  
 
-    result = sockMerchant(n, sockColors)
+#     result = sockMerchant(n, sockColors)
 
-    print("Number of pairs:", result)
+#     print("Number of pairs:", result)

@@ -14,11 +14,11 @@ class Solution:
     
 # Local Mode:
 
-nums = list(map(int, input("Enter numbers separated by space: ").split()))
-val = int(input("Enter the value to remove: "))
+# nums = list(map(int, input("Enter numbers separated by space: ").split()))
+# val = int(input("Enter the value to remove: "))
 
-sol = Solution()
-r = sol.removeElement(nums, val)
+# sol = Solution()
+# r = sol.removeElement(nums, val)
 
-print(f"Number of remaining elements: {r}")
-print(f"Modified array: {nums[:r]}")
+# print(f"Number of remaining elements: {r}")
+# print(f"Modified array: {nums[:r]}")
