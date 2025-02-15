@@ -1,3 +1,5 @@
+# LeetCode Mode:
+
 class Solution:
     def lengthOfLastWord(self, s: str) -> int:
         length = 0
