@@ -24,6 +24,7 @@ This repository contains solutions to programming challenges that I undertake to
 - [Subarray Division 1](https://www.hackerrank.com/challenges/one-month-preparation-kit-the-birthday-bar/problem) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_HackerRank/Basic/birthday.py)
 - [XOR Strings 2](https://www.hackerrank.com/challenges/one-month-preparation-kit-strings-xor/problem) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_HackerRank/Basic/stringsXor.py)
 - [Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_HackerRank/Basic/sockMerchant.py)
+- [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_HackerRank/Basic/pageCount.py)
 
 ### LeetCode
 #### 🟢Easy
