@@ -42,3 +42,4 @@ This repository contains solutions to programming challenges that I undertake to
 - [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_LeetCode/Easy/firstOcurrence.py)
 - [Search Insert Position](https://leetcode.com/problems/search-insert-position/) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_LeetCode/Easy/searchInsert.py)
 - [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_LeetCode/Easy/lengthOfLastWord.py)
+- [Plus One](https://leetcode.com/problems/plus-one/) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_LeetCode/Easy/plusOne.py)
