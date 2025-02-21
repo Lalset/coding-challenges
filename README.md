@@ -45,3 +45,5 @@ This repository contains solutions to programming challenges that I undertake to
 - [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_LeetCode/Easy/lengthOfLastWord.py)
 - [Plus One](https://leetcode.com/problems/plus-one/) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_LeetCode/Easy/plusOne.py)
 - [Add Binary](https://leetcode.com/problems/add-binary/description/) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_LeetCode/Easy/addBinary.py)
+- [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_LeetCode/Easy/mySqrt.py)
+- [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_LeetCode/Easy/climbStairs.py)
