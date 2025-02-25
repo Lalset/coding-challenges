@@ -50,3 +50,4 @@ This repository contains solutions to programming challenges that I undertake to
 - [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_LeetCode/Easy/removeDuplicatesSortedList.py)
 - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_LeetCode/Easy/mergeSorted.py)
 - [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_LeetCode/Easy/binaryTreeInorderTraversal.py)
+- [Same Tree](https://leetcode.com/problems/same-tree/) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_LeetCode/Easy/sameTree.py)
