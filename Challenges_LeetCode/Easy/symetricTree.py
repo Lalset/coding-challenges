@@ -1,3 +1,5 @@
+# LeetCode Mode:
+
 from typing import Optional
 
 class TreeNode:
