@@ -53,3 +53,4 @@ This repository contains solutions to programming challenges that I undertake to
 - [Same Tree](https://leetcode.com/problems/same-tree/) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_LeetCode/Easy/sameTree.py)
 - [Symetric Tree](https://leetcode.com/problems/symmetric-tree/description/) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_LeetCode/Easy/symetricTree.py)
 - [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_LeetCode/Easy/maximumDepthBinaryTree.py)
+- [Covert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_LeetCode/Easy/sortedArarayToBST.py)
