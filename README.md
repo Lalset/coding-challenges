@@ -52,3 +52,4 @@ This repository contains solutions to programming challenges that I undertake to
 - [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_LeetCode/Easy/binaryTreeInorderTraversal.py)
 - [Same Tree](https://leetcode.com/problems/same-tree/) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_LeetCode/Easy/sameTree.py)
 - [Symetric Tree](https://leetcode.com/problems/symmetric-tree/description/) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_LeetCode/Easy/symetricTree.py)
+- [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_LeetCode/Easy/maximumDepthBinaryTree.py)
