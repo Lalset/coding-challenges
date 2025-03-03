@@ -1,6 +1,6 @@
 import os
 
-# LeetCode Mode:
+# HackerRank Mode:
 
 def caesarCipher(s, k):
     encryp_text = ""
