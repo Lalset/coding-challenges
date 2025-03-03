@@ -26,6 +26,8 @@ This repository contains solutions to programming challenges that I undertake to
 - [Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_HackerRank/Basic/sockMerchant.py)
 - [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_HackerRank/Basic/pageCount.py)
 - [Tower Breakers](https://www.hackerrank.com/challenges/tower-breakers-1/problem) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_HackerRank/Basic/towerBreakers.py)
+- [Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1/problem) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_HackerRank/Basic/caesarCipher.py)
+- [Max Min](https://www.hackerrank.com/challenges/angry-children/problem) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_HackerRank/Basic/maxMin.py)
 
 ### LeetCode
 #### 🟢Easy
