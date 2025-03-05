@@ -28,6 +28,7 @@ This repository contains solutions to programming challenges that I undertake to
 - [Tower Breakers](https://www.hackerrank.com/challenges/tower-breakers-1/problem) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_HackerRank/Basic/towerBreakers.py)
 - [Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1/problem) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_HackerRank/Basic/caesarCipher.py)
 - [Max Min](https://www.hackerrank.com/challenges/angry-children/problem) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_HackerRank/Basic/maxMin.py)
+- [Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array/problem) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_HackerRank/Basic/dynamicArray.py)
 
 ### LeetCode
 #### 🟢Easy
