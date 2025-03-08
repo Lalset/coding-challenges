@@ -31,6 +31,7 @@ This repository contains solutions to programming challenges that I undertake to
 - [Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array/problem) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_HackerRank/Basic/dynamicArray.py)
 - [Grid Challenge](https://www.hackerrank.com/challenges/one-week-preparation-kit-grid-challenge/problem) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_HackerRank/Basic/gridChallenge.py)
 - [Prime Dates](https://www.hackerrank.com/challenges/prime-date/problem) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_HackerRank/Basic/primeDates.py)
+- [Sherlock and Array](https://www.hackerrank.com/challenges/sherlock-and-array/problem) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_HackerRank/Basic/balancedSums.py)
 
 ### LeetCode
 #### 🟢Easy
