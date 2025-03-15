@@ -64,3 +64,4 @@ This repository contains solutions to programming challenges that I undertake to
 - [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_LeetCode/Easy/balancedBinaryTree.py)
 - [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_LeetCode/Easy/minimumDepthofBinaryTree.py)
 - [Path Sum](https://leetcode.com/problems/path-sum/) - [Cpde Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_LeetCode/Easy/pathSum.py)
+- [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_LeetCode/Easy/pascalsTriangle.py)
