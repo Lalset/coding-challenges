@@ -66,3 +66,4 @@ This repository contains solutions to programming challenges that I undertake to
 - [Path Sum](https://leetcode.com/problems/path-sum/) - [Cpde Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_LeetCode/Easy/pathSum.py)
 - [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_LeetCode/Easy/pascalsTriangle.py)
 - [Pascal's Triangle 2](https://leetcode.com/problems/pascals-triangle-ii/description/) = [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_LeetCode/Easy/pascalsTrianlge2.py)
+- [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) - [Code Solution](https://github.com/Lalset/coding-challenges/blob/main/Challenges_LeetCode/Easy/maxProfit.py)
